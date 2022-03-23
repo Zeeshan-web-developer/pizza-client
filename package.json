@@ -5,6 +5,7 @@
   "homepage": "https://Zeeshan-web-developer.github.io/pizzahut",
   "scripts": {
     "dev": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest",
     "predeploy": "npm run build",
