@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "http://localhost:9000/api/v1";
+const API_URL = "https://pizzahuttbackend.herokuapp.com/api/v1";
 
 // setting the base url for axios
 const axiosApi = axios.create({
